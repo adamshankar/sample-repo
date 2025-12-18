@@ -2,3 +2,4 @@ name = "hello"
 print(f"{name}")
 
 print(hi machan)
+print(vanakkam)
